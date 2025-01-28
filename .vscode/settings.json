@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+      "Laravel",
+      "pointable",
+      "pricings",
+      "sendable",
+      "sidegated",
+      "sourcable",
+      "sourceable"
+    ],
+    "cSpell.language": "en-GB",
+    "php-cs-fixer.onsave": true,
+    "i18n-ally.localesPaths": [
+      "resources/lang"
+    ],
+  }
+  
